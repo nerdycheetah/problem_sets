@@ -1,0 +1,9 @@
+1/9/2021
+
+- Problem 1 -
+Given a paragraph with numbers, return the paragraph void of all numbers but replaced with their LEET/1337 speak counterparts. Make sure the output string is cleaned, with all letters standardized and no punctuation.
+
+INPUT: 'H3llo my name 28 is 3than and 1 10v3 34t1ng ph4d th41.'
+
+OUTPUT: 'hello my name is ethan and i love eating phad thai'
+
